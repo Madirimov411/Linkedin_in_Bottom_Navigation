@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/myNetworkFragment"
+        android:title="My Network"
+        android:icon="@drawable/ic_my_network"
+        />
+
+    <item
+        android:id="@+id/postFragment"
+        android:title="Post"
+        android:icon="@drawable/ic_post"
+        />
+
+    <item
+        android:id="@+id/notificationsFragment"
+        android:title="Notifications"
+        android:icon="@drawable/ic_notifications"
+        />
+
+    <item
+        android:id="@+id/jobsFragment"
+        android:title="Jobs"
+        android:icon="@drawable/ic_jobs"
+        />
+
+</menu>
